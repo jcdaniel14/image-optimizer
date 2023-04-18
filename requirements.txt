@@ -1,0 +1,7 @@
+basicsr
+numpy
+opencv-python
+Pillow
+torch>=1.7
+torchvision
+tqdm
